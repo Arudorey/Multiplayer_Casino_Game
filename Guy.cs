@@ -7,6 +7,7 @@
 
         public void WriteMyInfo()
         {
+            //zeigt die Werte für Guy.Name und Guy.Cash
             Console.WriteLine(Name + " has " + Cash + " bucks.");
         }
         public int GiveCash(int amount)
